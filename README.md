@@ -20,6 +20,7 @@ File
 5.Simple GUI using Tkinter
 
 ## Technologies Used
+
 1.Python
 
 2.Socket Programming
