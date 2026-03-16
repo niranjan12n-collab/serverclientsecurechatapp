@@ -1,5 +1,6 @@
 # serverclientsecurechatapp
 ## Description
+
 A Secure Chat Application is a communication platform designed to allow users to send messages, files, and media privately while protecting the data from unauthorized access or interception. It uses advanced security technologies such as encryption, authentication, and secure communication protocols to ensure that conversations remain confidential. #Technologies used .Tkinter .python .socket
 
 File
@@ -17,6 +18,7 @@ File
 4.Username-based chat
 
 5.Simple GUI using Tkinter
+
 ## Technologies Used
 Python
 Socket Programming
