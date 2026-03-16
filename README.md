@@ -20,10 +20,13 @@ File
 5.Simple GUI using Tkinter
 
 ## Technologies Used
-Python
-Socket Programming
-Tkinter
-Threading
+1.Python
+
+2.Socket Programming
+
+3.Tkinter
+
+4.Threading
 
 
 ## Run the Application
