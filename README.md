@@ -14,7 +14,9 @@ Simple GUI using Tkinter
 Python
 Socket Programming
 Tkinter
-Threading## Technologies Used
+Threading
+
+## Technologies Used
 Python
 Socket Programming
 Tkinter
